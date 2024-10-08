@@ -1,3 +1,3 @@
-module Telescope
+module telescope
 
 go 1.23.2
